@@ -1,5 +1,5 @@
 # go-kit
-# Reference
+# Study Reference
   * https://kaichu.io/posts/gokit-engineering-operation/
   * https://www.youtube.com/watch?v=tcfVgusbqy0&t=1s
   * https://github.com/cage1016/gokit-workshop
@@ -10,6 +10,6 @@
 * 其中
      * endpoint 經由 encode 傳送到 transport
      * transport 經由 decode 傳送到 endpoint 
-
-
-
+# Source Code reference
+  * https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf
+  * https://github.com/eminetto/talk-microservices-gokit
